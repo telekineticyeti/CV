@@ -3,6 +3,10 @@
 ## [When you Wish Upon a Star](http://whenyouwishuponastar.org.uk)
 _September 2017_
 
+<p align="center">
+    <img src="http://git.poot.pw/paul/cv/raw/master/images/when_you_wish_upon_a_star-thumbnail.jpg" alt="When you wish upon a star screenshot" />
+</p>
+
 When you wish upon a star is a nationwide charity granting wishes to poorly children.
 
 My role in this project was to develop the website from the ground up from designs provided by our designer. We chose an elegant CMS (Perch) that is easy for our client to update. From this CMS we generate listings of event contents, granted wish stories and news articles.
@@ -15,8 +19,12 @@ The site is fully responsive and rigorously tested on a variety of devices.
 
 [Visit project URL](http://whenyouwishuponastar.org.uk)
 
-## [M2 Subsea](http://m2subsea.com)
+## M2 Subsea
 _March 2017_
+
+<p align="center">
+    <img src="http://git.poot.pw/paul/cv/raw/master/images/m2_subsea-thumbnail.jpg" alt="M2 Subsea Screenshot" />
+</p>
 
 M2 Subsea is one of the largest independant providors of ROV and vessel services, project management, consulting and engineering.
 
