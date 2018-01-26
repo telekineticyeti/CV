@@ -6,7 +6,6 @@ I am a dedicated and keen professional who specializes in web and application de
 
 
 ## Skills
----
 ### Interpersonal Skills
 
 - Highly motivated and enthusiastic
@@ -37,7 +36,6 @@ I am a dedicated and keen professional who specializes in web and application de
 
 
 ## Experience
----
 
 ### Internet Strategies UK Ltd
 Web developer _(2014 - Present)_
@@ -71,7 +69,6 @@ Catering supervisor _(2000 – 2007)_
 
 
 ## Education
----
 **University College of Creative Arts, Maidstone** _(2005 – 2008)_
 BA (Hons) Illustration
 
@@ -86,7 +83,6 @@ BTEC National Diploma in I.T. Applications
 
 
 ## Notable Achievements
----
 **Kvalitet på nett** _(2013)_ – Three of my Norwegian municipal website designs ([Ringsaker kommune](https://www.ringsaker.kommune.no/), [Askim kommune](https://www.askim.kommune.no/) and [Marker kommune](https://www.marker.kommune.no/)) were awarded the highest possible rating of 6/6 stars by Direktoratet for forvaltning og IKT [kvalitet.difi.no](http://kvalitet.difi.no), in it's official 2013 review. Only 33 out of 658 municipal websites achieved a 6/6 score.
 [Link](http://kvalitet.difi.no/resultat)
 
