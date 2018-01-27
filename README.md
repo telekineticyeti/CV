@@ -1,6 +1,6 @@
 # Paul Castle
 
-[Skills](#) | [Projects](#) | [Experience](#) | [Education](#) | [Interests](#)
+[Skills](#) | [Projects](test/) | [Experience](#) | [Education](#) | [Interests](#)
 
 I am a dedicated and keen professional who specializes in web and application development, with over 12 years of experience in a variety of exciting web based projects.
 
