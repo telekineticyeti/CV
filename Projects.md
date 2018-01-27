@@ -19,7 +19,7 @@ The site is fully responsive and rigorously tested on a variety of devices.
 
 [Visit project URL](http://whenyouwishuponastar.org.uk)
 
-## [M2 Subsea](http://m2subsea.com)
+### [M2 Subsea](http://m2subsea.com)
 _March 2017_
 
 <p align="center">
@@ -39,7 +39,7 @@ Of note:
 [Visit project URL](http://m2subsea.com)
 
 
-# Github Projects
+## Github Projects
 Project title | Description | Link | Technologies		
 --- | --- | --- | ---
 [Fooderator](https://github.com/telekineticyeti/fooderator) | A meal planning app that simplifies keeping track of planned meals and which groceries you'll need for them, improving budgetting and reductions in food waste. | [![github](https://raw.githubusercontent.com/telekineticyeti/cv/master/images/icons/github.png)](https://github.com/telekineticyeti/fooderator) | Node, AngularJS, Postgre SQL, SASS, Docker
