@@ -1,6 +1,6 @@
 # Projects
 
-## [When you Wish Upon a Star](http://whenyouwishuponastar.org.uk)
+### [When you Wish Upon a Star](http://whenyouwishuponastar.org.uk)
 _September 2017_
 
 <p align="center">
