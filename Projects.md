@@ -19,7 +19,7 @@ The site is fully responsive and rigorously tested on a variety of devices.
 
 [Visit project URL](http://whenyouwishuponastar.org.uk)
 
-## M2 Subsea
+## [M2 Subsea](http://m2subsea.com)
 _March 2017_
 
 <p align="center">
@@ -37,3 +37,10 @@ Of note:
 - The complex unfolding logo animation on the home page is an SVG graphic that I animated using CSS3 and the Greensock API.
 
 [Visit project URL](http://m2subsea.com)
+
+
+# Github Projects
+Project title | Description | Link | Technologies		
+--- | --- | --- | ---
+[Fooderator](https://github.com/telekineticyeti/fooderator)  | A meal planning app that lets you simplify keeping track of planned meals and which groceries you'll need for them, improving budgetting and reductions in food waste. | [![github](https://raw.githubusercontent.com/telekineticyeti/cv/master/images/icons/github.png)](https://github.com/telekineticyeti/fooderator) | Node, AngularJS, Postgre SQL, SASS
+[Arstation Likes Scraper](https://github.com/telekineticyeti/artstation-likes-scraper) | Scrape a user profile for their likes and download the associated image assets for those likes. | [![github](https://raw.githubusercontent.com/telekineticyeti/cv/master/images/icons/github.png)](https://github.com/telekineticyeti/artstation-likes-scraper) | Node, API, JWT
