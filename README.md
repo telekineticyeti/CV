@@ -10,7 +10,7 @@ Highly motivated to nurture professional growth, and to engage with coworkers an
 
 
 ## Skills
- - Strong communication and problem solving skills, with the ability to clearly convey concepts and ideas and interpret requirements.
+- Strong communication and problem solving skills, with the ability to clearly convey concepts and ideas and interpret requirements.
 - Committed to writing clean, organized and documented code that is DRY, scalable and modular with a focus on performance.
 - Node.js development and deployment, including package management tools such as bower and npm.
 - Version management tools (Github, Bitbucket & Gitlab), via command line and UI.
