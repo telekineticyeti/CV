@@ -1,38 +1,30 @@
 # Paul Castle
 
-[Skills](#) | [Projects](Projects.md) | [Experience](#) | [Education](#) | [Interests](#)
+[Skills](#skills) | [Projects](Projects.md) | [Experience](#experience) | [Education](#education) | [Interests](#interests-hobbies)
 
-I am a dedicated and keen professional who specializes in web and application development, with over 12 years of experience in a variety of exciting web based projects.
+A dedicated and keen professional with over 13 years of experience in the full development lifecycle of web projects.
+
+Backed by strong industry proficiency in both front and back end development, including the deployment and maintenance of a large variety of exciting websites, and the advanced command of an array of development tools and languages.
+
+Highly motivated to nurture professional growth, and to engage with coworkers and clients to generate the best technical and creative solutions.
 
 
 ## Skills
-### Interpersonal Skills
-
-- Highly motivated and enthusiastic
-- Strong communication skills with the ability to clearly convey concepts and ideas.
-- Ability to help and support co-workers and clients around projects.
-- Ability to operate autonomously.
-- Ability to accept feedback and generate creative solutions based on that feedback.
-
-
-### Technical Skills
-- NodeJS Development and application deployment
+ - Strong communication and problem solving skills, with the ability to clearly convey concepts and ideas and interpret requirements.
 - Committed to writing clean, organized and documented code that is DRY, scalable and modular with a focus on performance.
-- Version management using Github and private git servers
-- An eye for animation and understanding of motion principles using CSS3 and Greensock API.
-- Management and maintenance of web servers in both Windows and Linux environments.
-- Experienced in web service management using WHM and cPanel
-- Smartermail service management 
-- Seasoned in PHP application development
-- Experienced in development with various CMS platforms, and the creation of plugins/templates for those platforms.
-- Highly interested in expanding knowledge of AngularJS development
-- Database CRUD using (Postgres, SQLite, MySQL/MariaDB and noSQL) 
+- Node.js development and deployment, including package management tools such as bower and npm.
+- Version management tools (Github, Bitbucket & Gitlab), via command line and UI.
+- Keen eye for animation and understanding of motion principles, utilizing CSS3 and GSAP.
+- Management and maintenance of web servers in Windows and Linux environments, including the use of tools such as WHM and cPanel.
+- Highly comfortable with the linux command line, including log analysis, job scheduling and Docker image creating & deployment.
+- High familiarity with the Smartertools suite of service tools, particularly Smartermail and Smarterstats.
+- Seasoned in PHP application development and OOP patterns.
+- Development in a variety of CMS platforms (Perch, Wordpress, Joomla), and the development of plugins and templates.
+- MVC and component based JS development with AngularJS.
+- Database CRUD using (Postgres, SQLite, MySQL/MariaDB and noSQL), and the creation/querying of restful APIs and JSON objects
+- Pre-processing build tools such as Gulp, Guard and Codekit
 - Experienced in providing design for print and web, including logo development
-- Highly experienced in preprocessing build systems such as Gulp and Guard
-- Docker deployment using both image creation and docker compose.
-- Highly experienced in the creation/querying of restful API with JSON objects
-- Templating with Markdown, and ejs
-- Cross-browser and cross-device testing and debugging, with an in depth knowledge of browser feature support.
+- Cross-browser and cross-device testing and debugging, with an in depth knowledge of browser feature support and proficiency in development console tools.
 
 
 ## Experience
@@ -88,3 +80,5 @@ BTEC National Diploma in I.T. Applications
 
 **Zillion Designs** _(2014)_ – My portfolio was featured in the online design magazine 'Zillion Designs', as one of the top 25 portfolios to follow in 2014.
 [Link](http://www.zilliondesigns.com/blog/top-25-designer-portfolios-to-follow-in-2014/)
+
+## Interests & Hobbies
