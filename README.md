@@ -1,6 +1,6 @@
 # Paul Castle
 
-[Skills](#skills) | [Projects](Projects.md) | [Experience](#experience) | [Education](#education) | [Interests](#interests-hobbies)
+[Skills](#skills) | [Projects](Projects.md) | [Experience](#experience) | [Education](#education) | [Interests](#interests--hobbies)
 
 A dedicated and keen professional with over 13 years of experience in the full development lifecycle of web projects.
 
