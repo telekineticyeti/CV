@@ -78,3 +78,6 @@ BTEC National Diploma in I.T. Applications
 
 
 ## Interests & Hobbies
+I have a keen fondness for art, and engage in painting, printmaking and illustration workshops in my free time. Influences from these creative outlets occasionally manifest in my work.
+
+I enjoy coding as my primary hobby, developing tools that aid me in cataloguing and archiving inspirational art and artists that I find online. Examples of these tools can be found among my Github repositories. I also enjoy tinkering with single board computers, and exploring ways to put the myriad of Raspberry Pis and Arduinos I've collected to good use.
