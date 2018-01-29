@@ -1,29 +1,39 @@
 # Projects
 
+
+## Recent web development projects
+
 ### [When you Wish Upon a Star](http://whenyouwishuponastar.org.uk)
 _September 2017_
 
 <p align="center">
-    <img src="http://git.poot.pw/paul/cv/raw/master/images/when_you_wish_upon_a_star-thumbnail.jpg" alt="When you wish upon a star screenshot" />
+	<a href="http://whenyouwishuponastar.org.uk" target="_blank">
+		<img src="images/when_you_wish_upon_a_star-thumbnail.jpg" alt="When you wish upon a star screenshot" />
+	</a>
 </p>
 
 When you wish upon a star is a nationwide charity granting wishes to poorly children.
 
-My role in this project was to develop the website from the ground up from designs provided by our designer. We chose an elegant CMS (Perch) that is easy for our client to update. From this CMS we generate listings of event contents, granted wish stories and news articles.
+My role in this project was to develop the website from the ground up from designs provided by our designer. We chose an elegant CMS (Perch) that is easy for our client to update. From this CMS we generate event listings, granted wish stories and news articles.
 
-I developed several RESTful API modules to pull customised JSON data objects from the CMS, with the purpose of extending the CMS's functionality to support dynamically loading article listings, as well as plotting the events listing on a google embedded map.
+I developed several API modules to pull custom JSON data objects from the CMS database, with the purpose of extending the CMS's functionality to support dynamically loaded article listings and plotting event locations on an embedded Google map.
 
-In addition, I animated various elements throughout the site, such as the landing page's slider and the call to action icons which are also on the home page.
+In addition, I animated various elements throughout the site, such as the landing page slider animation, and the home page call to action icons.
 
 The site is fully responsive and rigorously tested on a variety of devices.
 
-[Visit project URL](http://whenyouwishuponastar.org.uk)
+Technologies used: PHP, HTML, SASS/CSS3, CMS, API, jQuery, GSAP
+
+[View project](http://whenyouwishuponastar.org.uk)
+
 
 ### [M2 Subsea](http://m2subsea.com)
 _March 2017_
 
 <p align="center">
-    <img src="http://git.poot.pw/paul/cv/raw/master/images/m2_subsea-thumbnail.jpg" alt="M2 Subsea Screenshot" />
+	<a href="http://m2subsea.com" target="_blank">
+		<img src="images/m2_subsea-thumbnail.jpg" alt="M2 Subsea Screenshot" />
+	</a>
 </p>
 
 M2 Subsea is one of the largest independant providors of ROV and vessel services, project management, consulting and engineering.
@@ -36,11 +46,33 @@ Of note:
 - The Perch CMS is used for the news section of the site, for which we developed a template system that handled article categorisation
 - The complex unfolding logo animation on the home page is an SVG graphic that I animated using CSS3 and the Greensock API.
 
-[Visit project URL](http://m2subsea.com)
+Technologies used: PHP, HTML, SASS, CMS, jQuery, GSAP
+
+[View project](http://m2subsea.com)
+
+
+### [The Boozy Cow](http://boozycow.com)
+_January 2017_
+
+<p align="center">
+	<a href="http://boozycow.com" target="_blank">
+		<img src="images/the_boozy_cow-thumbnail.jpg" alt="Boozy Cow Screenshot" />
+	</a>
+</p>
+
+The Boozy Cow is a chain of restaurants that donates 100% of its profits to local charities and good causes.
+
+The goal of this project was to improve the end-user experience over the previous website by providing a fully responsive, eye-catching new site that echoed the grungy americana aesthetic of the Boozy Cow brand.
+
+My role in this project was to provide full back/front end development, logo animation and device testing.
+
+Technologies used: PHP, HTML, SASS, CMS, jQuery, GSAP
+
+[View project](http://boozycow.com)
 
 
 ## Github Projects
-Project title | Description | Link | Technologies		
+Project title | Description | Link | Technologies
 --- | --- | --- | ---
 [Fooderator](https://github.com/telekineticyeti/fooderator) | A meal planning app that simplifies keeping track of planned meals and which groceries you'll need for them, improving budgetting and reductions in food waste. | [![github](images/icons/github.png)](https://github.com/telekineticyeti/fooderator) | Node, AngularJS, Postgre SQL, SASS, Docker
 [Arstation Likes Scraper](https://github.com/telekineticyeti/artstation-likes-scraper) | Scrape a user profile for their likes and download the associated image assets for those likes. | [![github](images/icons/github.png)](https://github.com/telekineticyeti/artstation-likes-scraper) | Node, API, Docker
