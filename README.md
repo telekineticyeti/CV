@@ -51,9 +51,8 @@ Freelance web design & development _(2005 – 2014)_
 Self-founded venture providing web design and development services to individuals and SME as an independent contractor. **Results**:
 
 - Provided designs and illustrations for print and web, including logo development.
-- Designed and developed over 25 Norwegian municipal websites for a recurring client. Three of these sites  (Ringsaker, Askim and Marker kommune) were awarded the highest possible rating of 6 stars by DIFI (The agency for public management and eGovernment) for quality in its official 2013 review.
-- Only 33 out of 658 total municipal sites achieved a perfect 6 score. http://kvalitet.difi.no/resultat.
-- My portfolio of work was featured in the design magazine 'Zillion Designs', as one of the top 25 portfolios to follow in 2014. - http://www.zilliondesigns.com/blog/top-25-designer-portfolios-to-follow-in-2014/.
+- Designed and developed over 25 Norwegian municipal websites for a recurring client. Three of these sites  (Ringsaker, Askim and Marker kommune) were awarded the highest possible rating of 6 stars by DIFI (The agency for public management and eGovernment) for quality in its official 2013 review. Only 33 out of 658 total municipal sites achieved a perfect 6 score. ([Link](http://kvalitet.difi.no/resultat))
+- My portfolio of work was featured in the design magazine 'Zillion Designs', as one of the top 25 portfolios to follow in 2014. ([Link](http://www.zilliondesigns.com/blog/top-25-designer-portfolios-to-follow-in-2014/))
 
 
 ### Bergen Associates
