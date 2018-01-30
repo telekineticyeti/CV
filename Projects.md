@@ -22,9 +22,35 @@ In addition, I animated various elements throughout the site, such as the landin
 
 The site is fully responsive and rigorously tested on a variety of devices.
 
-Technologies used: PHP, HTML, SASS/CSS3, CMS, API, jQuery, GSAP
+Technologies used: PHP/MySQL, HTML5, SASS/CSS3, CMS, API, JS/jQuery, GSAP
 
 [View project](http://whenyouwishuponastar.org.uk)
+
+
+### [Thorpe Molloy Recruitment](http://thorpemolloy.com)
+_June 2015 - Ongoing_
+
+<p align="center">
+	<a href="http://whenyouwishuponastar.org.uk" target="_blank">
+		<img src="images/tmr-thumbnail.jpg" alt="When you wish upon a star screenshot" />
+	</a>
+</p>
+
+Thorpe Molloy Recruitment is an award winning specialist recruitment agency based in Aberdeen.
+
+Internet Strategies has held a long standing relationship with Thorpe Molloy, supplying design and development services and providing unique solutions that give Thorpe Molloy's online presence an edge over competitors.
+
+My role with this project started with the refreshing of the site in 2014. I redeveloped the front end experience based on designs provided by our designer. We built a fully responsive site that scaled well to all devices and was rigerously tested. We introduced CSS3 animation elments for icons and enquiry form roll in's that were bold and simple.
+
+I also participated in the back end development of the site, my tasks including:
+- Development of AJAX enquiry forms and PHP form handlers tasked with database CRUD and statistical reporting
+- Implementation of the Perch CMS, allowing our client to update team members and news articles. The news section was also overhauled to support dnyamic loading and filtering of articles
+- Creation of PHP software that performed batch operations on large databases of jobs/applicants
+- Creation of PHP modules that interfaced with older portions of the custom developed CMS
+
+Technologies used: PHP/MySQL, HTML5, SASS, CMS, JS/jQuery
+
+[View project](http://thorpemolloy.com)
 
 
 ### [M2 Subsea](http://m2subsea.com)
@@ -46,7 +72,7 @@ Of note:
 - The Perch CMS is used for the news section of the site, for which we developed a template system that handled article categorisation
 - The complex unfolding logo animation on the home page is an SVG graphic that I animated using CSS3 and the Greensock API.
 
-Technologies used: PHP, HTML, SASS, CMS, jQuery, GSAP
+Technologies used: PHP/MySQL, HTML5, SASS, CMS, JS/jQuery, GSAP
 
 [View project](http://m2subsea.com)
 
@@ -66,7 +92,7 @@ The goal of this project was to improve the end-user experience over the previou
 
 My role in this project was to provide full back/front end development, logo animation and device testing.
 
-Technologies used: PHP, HTML, SASS, CMS, jQuery, GSAP
+Technologies used: PHP/MySQL, HTML5, SASS, CMS, jQuery, GSAP
 
 [View project](http://boozycow.com)
 
