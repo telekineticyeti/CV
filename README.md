@@ -10,6 +10,7 @@ Highly motivated to nurture professional growth, and to engage with coworkers an
 
 
 ## Skills
+- High degree of experience in working with SME’s developing and maintaining PHP & MySQL projects with large databases.
 - Strong communication and problem solving skills, with the ability to clearly convey concepts and ideas and interpret requirements.
 - Committed to writing clean, organized and documented code that is DRY, scalable and modular with a focus on performance.
 - Node.js development and deployment, including package management tools such as Bower and npm.
