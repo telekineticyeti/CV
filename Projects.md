@@ -26,7 +26,7 @@ Technologies used: PHP/MySQL, HTML5, SASS/CSS3, CMS, API, JS/jQuery, GSAP
 
 [View project](http://whenyouwishuponastar.org.uk)
 
-
+---
 ### [Thorpe Molloy Recruitment](http://thorpemolloy.com)
 _June 2015 - Ongoing_
 
@@ -52,7 +52,7 @@ Technologies used: PHP/MySQL, HTML5, SASS, CMS, JS/jQuery
 
 [View project](http://thorpemolloy.com)
 
-
+---
 ### [M2 Subsea](http://m2subsea.com)
 _March 2017_
 
@@ -76,7 +76,7 @@ Technologies used: PHP/MySQL, HTML5, SASS, CMS, JS/jQuery, GSAP
 
 [View project](http://m2subsea.com)
 
-
+---
 ### [The Boozy Cow](http://boozycow.com)
 _January 2017_
 
@@ -96,7 +96,7 @@ Technologies used: PHP/MySQL, HTML5, SASS, CMS, jQuery, GSAP
 
 [View project](http://boozycow.com)
 
-
+---
 ## Github Projects
 Project title | Description | Link | Technologies
 --- | --- | --- | ---
