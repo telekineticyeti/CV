@@ -65,10 +65,10 @@ Catering supervisor _(2000 – 2007)_
 
 
 ## Education
-**University College of Creative Arts, Maidstone** _(2005 – 2008)_
+**University College of Creative Arts, Maidstone** _(2004 – 2007)_
 BA (Hons) Illustration
 
-**Uxbridge College, Middlesex** _(2004 – 2005)_
+**Uxbridge College, Middlesex** _(2003 – 2004)_
 BTEC National Diploma in Art Foundation
 
 **Uxbridge College, Middlesex** _(2000 – 2002)_
