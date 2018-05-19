@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](Projects.md) | [Experience](#experience) | [Education](#education) | [Interests](#interests--hobbies)
 
-A dedicated and keen professional with over 13 years of experience in the full development lifecycle of web projects.
+A dedicated and keen professional with over 14 years of experience in the full development lifecycle of web projects.
 
 Backed by strong industry proficiency in both front and back end development, including the deployment and maintenance of a large variety of exciting websites, and advanced command of an array of development tools and languages.
 
@@ -28,10 +28,21 @@ Highly motivated to nurture professional growth, and to engage with coworkers an
 
 
 ## Experience
-### Internet Strategies UK Ltd
-Web developer _(2014 - Present)_
+### Arria NLG
+Front End Engineer _(2018 - present)_
 
-Serve as a key member of the development team, liaising with clients to interpret their requirements and participating in the full life cycle of new projects in addition to the maintenance and tuning of existing projects. **Results**:
+Currently working in a energetic team to develop software that uses bleeding-edge artificial intelligence technology to create natural language text that describes and explains diverse data sets. **Results**:
+
+- Contribute to design and management of the front-end application infrastructure and architecture.
+- Creating solutions by developing, implementing, and maintaining front-end components of web based applications within an Agile software development environment.
+- Supporting users by developing documentation and assistance tools.
+- Engaging in unit testing based development.
+- Coordinates with colleagues based in offices around the globe; assisting with workload planning, design of new software solutions and code reviewing.
+
+### Internet Strategies UK Ltd
+Web developer _(2014 - 2018)_
+
+Served as a key member of the development team, liaising with clients to interpret their requirements and participating in the full life cycle of new projects in addition to the maintenance and tuning of existing projects. **Results**:
 
 - Hands on development of all web projects from genesis to delivery for clients within a variety of sectors, including oil and gas, charities, hospitality, sports and commerce.
 - Developed cross-browser & cross-device compliant websites that are SEO optimized and take full advantage of modern social sharing tools.
